@@ -5,4 +5,4 @@
 - 💬 Ask me about Java, Spring, JSF and Good Practice in development with Java
 - 📫 How to reach me: send a email for guilhermeg.contato@gmail.com
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaskbr&count_private=true&card_width=300&show_icons=true&theme=synthwave)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=guirodriguesg&count_private=true&card_width=300&show_icons=true&theme=synthwave)
